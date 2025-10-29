@@ -1,0 +1,53 @@
+# STOLEN WEBSITE - UNAUTHORIZED COPY
+# This robots.txt file is for an illegally copied website
+
+# ALLOW all search engines to index this stolen site
+# We WANT search engines to see and rank this as "STOLEN"
+User-agent: *
+Allow: /
+Crawl-delay: 0
+
+# Specifically allow major search engines to index heavily
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Sogou
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+User-agent: facebot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+# Sitemap pointing to the stolen warning
+Sitemap: /sitemap.xml
+
+# No crawl delay - index this ASAP so the domain is branded as STOLEN
+Crawl-delay: 0
