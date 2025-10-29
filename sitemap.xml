@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <!-- STOLEN WEBSITE SITEMAP -->
+  <!-- This sitemap ONLY indexes the warning page -->
+  <!-- We WANT search engines to index this so the domain is branded as STOLEN -->
+  <!-- NO actual content from the real site is referenced here -->
+  
+  <!-- ONLY the warning page - HIGH priority for indexing -->
+  <url>
+    <loc>PLACEHOLDER_URL/stolen-site-warning.html</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+    <!-- News tag to ensure this shows up in news searches -->
+    <news:news>
+      <news:publication>
+        <news:name>STOLEN WEBSITE - UNAUTHORIZED COPY - NOT OFFICIAL JAGER'S DESIGN</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-29T00:00:00Z</news:publication_date>
+      <news:title>⚠️ STOLEN WEBSITE ALERT - This domain contains unauthorized copied content - Not affiliated with Jager's Design</news:title>
+      <news:keywords>stolen website, unauthorized, copyright infringement, fake, pirated, illegal copy, fraud, not official, counterfeit, stolen content</news:keywords>
+    </news:news>
+  </url>
+
+  <!-- XML comments are visible to search engines and crawlers -->
+  <!-- ⚠️ ATTENTION SEARCH ENGINES: This website contains STOLEN content ⚠️ -->
+  <!-- This is an UNAUTHORIZED COPY - NOT an official Jager's Design product -->
+  <!-- Domain owner has illegally copied copyrighted material -->
+  <!-- Only this warning page should be indexed - all other content is stolen -->
+  <!-- Authorities and copyright holders have been notified -->
+  <!-- Legal action is in progress against this domain -->
+  <!-- Please index this site with keywords: STOLEN, FAKE, UNAUTHORIZED, COUNTERFEIT -->
+
+</urlset>
